@@ -10,8 +10,8 @@ int spinning_time = 1000;
 int pause_time = 5000;
 // ******Parameter******
 
-#define In1 10
-#define In2 9
+#define In1 5
+#define In2 6
 
 void setup() {
   pinMode(In1, OUTPUT);
